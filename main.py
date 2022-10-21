@@ -1,0 +1,5 @@
+print('create number')
+A=str(input())
+print('create second number')
+B=str(input())
+print(int(A)+int(B))
